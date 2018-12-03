@@ -8,3 +8,7 @@ SOURCES += \
 
 HEADERS += \
     src/simple_table.h
+
+OTHER_FILES += \
+    README.md \
+    .gitignore

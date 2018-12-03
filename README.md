@@ -20,7 +20,7 @@ int main()
     
     // location inside table is defined by the Where class:
     simpletable::Where w{2,3};
-    std::cout << table.Item(w) << '\n;
+    std::cout << table.Item(w) << '\n';
 
     std::cout << table << '\n';
     
